@@ -1,6 +1,8 @@
 > Currently looking for a job! Check me here -> [CV](https://www.notion.so/Beatrix-3af240f69b1644cc802ba40d0d01bbd5) 
-### **Yaejin jeon** 
-#### ✨ frontend dev✨  livin in Seoul
+
+## **Yaejin jeon** 
+
+- #### ✨ frontend dev✨  livin in Seoul
 
 - 🔭 I’m currently studying **Algorithm**
 - ⚡ interested in **FP and Data Visualization**
