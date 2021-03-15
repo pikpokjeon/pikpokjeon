@@ -2,7 +2,7 @@
 ## **Yaejin jeon** 
 
 #### ✨ frontend dev✨  livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-🔭 I’ve been currently studying **Algorithm** via coding challenges/
+🔭 I’ve been currently working @ thevc (https://thevc.kr)
 ⚡ interested in **FP and Data Visualization**
 
 
