@@ -7,7 +7,7 @@
 #### ToyProjects with affection 🥰
 |  1.JS Data Visualization    |    Category (%)    |          
 | -------- | -------- | 
-|<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project, "repo link")  |
+|<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
 
 |          |          |          
 | -------- | -------- | 
