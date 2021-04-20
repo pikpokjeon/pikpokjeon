@@ -4,10 +4,6 @@
 #### ✨ frontend dev✨  livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ⚡ interested in **FP and Data Visualization**
 
-#### ToyProjects with affection 🥰
-|  1.JS Data Visualization    |    Category (%)    |          
-| -------- | -------- | 
-|<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
 
 |          |          |          
 | -------- | -------- | 
