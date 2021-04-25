@@ -9,7 +9,7 @@
 
 |  1. Data Visualization    |    Progress (%)    |          
 | -------- | -------- | 
-| |
+|| <a href="https://pikpokjeon.github.io/JS-Data-Visualization-Project/">Demo page</a>
 |<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
 
 
