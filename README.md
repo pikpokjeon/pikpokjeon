@@ -5,9 +5,9 @@
 ⚡ interested in **FP and Data Visualization**
 
 #### 🥰 Toy Projects with affection 
- Vanila JS Challenge <br /> 
+  <br /> 
 
-| Projects  |    Progress (%)    |          
+| Vanila JS Challenge Projects  |    Progress (%)    |          
 | -------- | -------- | 
 |  1. Data Visualization <a href="https://pikpokjeon.github.io/JS-Data-Visualization-Project/">Demo page</a>   |    35%   |      
 |<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
