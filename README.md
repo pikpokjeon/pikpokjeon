@@ -9,9 +9,9 @@
 
 | Vanila JS Challenge Projects  |    Progress (%)    |          
 | -------- | -------- | 
-|  1. Data Visualization <a href="https://pikpokjeon.github.io/JS-Data-Visualization-Project/">Demo page</a>   |    35%   |      
-|<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/main/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
-|  2. PubSub-State  |   20 (%)    |          
+|  1. Data Visualization <a href="https://pikpokjeon.github.io/JS-Data-Visualization-Project/">Demo page</a>   |    35% - working on UIUX   |      
+|<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/publish/linechart.gif" width="400">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
+|  2. PubSub-State  |   20%   |          
 | Simple Publish-Subscribe Messaging Pattern Inspired Store Library |[Check this repo](https://github.com/pikpokjeon/PubSub-State) |
 
 
