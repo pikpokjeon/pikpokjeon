@@ -13,8 +13,8 @@
 |<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/publish/linechart.gif" width="600">|Algorithm 1/2 <br /> Charts 1/3<br /> Interactive Design 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
 |  2. PubSub-State  |   20%   |          
 | Simple Publish-Subscribe Messaging Pattern Inspired Store Library |[Check this repo](https://github.com/pikpokjeon/PubSub-State) |
-| 3. SSH.js  |   5%   |          
-| Super SVG helper - Svg Helper Library makes easier to manipulate svg elements |[Check this repo](https://github.com/pikpokjeon/SSH) |
+| 3. SSH.js  |   5% - working on ReadMe   |          
+| Super SVG helper - Svg Helper Library makes easier to manipulate svg elements | - Chart Helper  [Check this repo](https://github.com/pikpokjeon/SSH) |
 
 
 
