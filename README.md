@@ -23,7 +23,7 @@
 
 | Study  |    Members    |          
 | -------- | -------- | 
-|  1. Functional JS Study   |    pikpokjeon <br /> Yzz   [Check this repo](https://github.com/pikpokjeon/Functional-JS-Study) |
+|  1. Functional JS Study   |    [pikpokjeon](https://github.com/pikpokjeon) <br />    [yzzeee](https://github.com/yzzeee) |
 ---
 
 |          |          |          
