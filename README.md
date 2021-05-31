@@ -1,10 +1,11 @@
 
 ## **Yaejin jeon** 
 > Currently looking for a job. <strong> -> [Notion CV ](https://www.notion.so/Beatrix-3af240f69b1644cc802ba40d0d01bbd5)</strong>
-#### ✨ frontend dev livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-⚡ interested in **FP and Data Visualization**
+### ✨ frontend dev livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+#### ⚡ interested in **FP and Data Visualization**
+---
 
-#### 🥰 Toy Projects with affection 
+### 🥰 Toy Projects with affection 
   <br /> 
 
 | Vanila JS Challenge Projects  |    Progress (%)    |          
@@ -15,8 +16,15 @@
 | Simple Publish-Subscribe Messaging Pattern Inspired Store Library |[Check this repo](https://github.com/pikpokjeon/PubSub-State) |
 | 3. SSH.js  |   5% - working on ReadMe   |          
 | Super SVG helper - Svg Helper Library makes easier to manipulate svg elements | - Chart Helper  [Check this repo](https://github.com/pikpokjeon/SSH) |
+---
 
+###  Group Study
+  <br /> 
 
+| Study  |    Members    |          
+| -------- | -------- | 
+|  1. Functional JS Study   |    pikpokjeon <br /> Yzz   [Check this repo](https://github.com/pikpokjeon/Functional-JS-Study) |
+---
 
 |          |          |          
 | -------- | -------- | 
