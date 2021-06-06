@@ -1,7 +1,12 @@
 
-## **Yaejin jeon** 
+## **Yaejin jeon** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikpokjeon&count_bg=%23FF00A2&title_bg=%23493D3D&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### ✨ frontend dev livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 #### ⚡ interested in **FP and Data Visualization**
+
+> <strong>I am a passionate junior frontend developer</strong> working in Seoul , who had been studying fine arts and industrial design for past approximately 17 years. Then, you would like to ask me and wonder <strong>'Why have I chose to start coding?'</strong>. <br />The origin of my passion in web programming started from when i was 9 years old. When I was 9 years old, I had an experience to build a static website that was about Pokemon collections and through building simple user interactions <strong> I fell in love with the strong satisfaction of actualizing what I planed and give such a service to other people .</strong> <br />The fascinating experience lead to me dream of becoming a web develope however only because I have a talent in fine arts, I decided to study deep into the field of Arts until I quit studying Industrial design in the university.<br /> <strong>I couldn't forget about the days of dream so that finally I am now here to achieve what I have wanted to be.</strong>
+
 ---
 
 ### 🥰 Toy Projects with affection 
