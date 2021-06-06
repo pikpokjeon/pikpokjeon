@@ -1,6 +1,5 @@
 
 ## **Yaejin jeon** 
-> Currently looking for a job. <strong> -> [Notion CV ](https://www.notion.so/Beatrix-3af240f69b1644cc802ba40d0d01bbd5)</strong>
 ### ✨ frontend dev livin in Seoul ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 #### ⚡ interested in **FP and Data Visualization**
 ---
