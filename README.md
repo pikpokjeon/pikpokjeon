@@ -16,9 +16,9 @@
 |<img src="https://github.com/pikpokjeon/JS-Data-Visualization-Project/blob/publish/linechart.gif" width="600">|Algorithm 1/2 <br /> Charts 2/3<br /> Interactive animations 0/2<br /> [Check this repo](https://github.com/pikpokjeon/JS-Data-Visualization-Project)  |
 |  2. PubSub-State  |   25%   |          
 | Simple Publish-Subscribe Messaging Pattern Inspired Store Library |[Check this repo](https://github.com/pikpokjeon/PubSub-State) |
-| 3. SSH.js [GithubPage](https://pikpokjeon.github.io/SSH/)  |   10% - working on modules   |          
-| Super SVG helper - Svg Helper Library makes easier to manipulate svg elements | - Chart Helper  [Check this repo](https://github.com/pikpokjeon/SSH) <br />- 라이브러리 테스트 깃헙페이지  [GithubPage](https://pikpokjeon.github.io/SSH/)  |
-|4.Functional Calender|15%|
+| 3. SSH.js   |   15% - working on modules   |          
+| Super SVG helper - Svg Helper Library makes easier to manipulate svg elements | [Check this repo](https://github.com/pikpokjeon/SSH) <br />  [Testing Page](https://pikpokjeon.github.io/SSH)<br/>[Documentation](https://github.com/pikpokjeon/SSH-Docs)|
+|4.Functional Calender|35%|
 |A simple calendar project that would help me in future to develop a FP SPA framework/ library| [Check this repo](https://github.com/pikpokjeon/calendate-js) <br /> same lib used in -> [summoner search page](https://github.com/pikpokjeon/summoner-search-page2) |
 ---
 
