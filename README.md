@@ -22,12 +22,9 @@
 |A simple calendar project that would help me in future to develop a FP SPA framework/ library| [Check this repo](https://github.com/pikpokjeon/calendate-js) <br /> same lib used in -> [summoner search page](https://github.com/pikpokjeon/summoner-search-page2) |
 ---
 
-###  Group Study
-  <br /> 
-
-| Study  |    Members    |          
-| -------- | -------- | 
-|  1. Functional JS Study   [Check this repo](https://github.com/pikpokjeon/Functional-JS-Study)  |    [pikpokjeon](https://github.com/pikpokjeon) <br />    [yzzeee](https://github.com/yzzeee) |
+###  Study
+ #### 1. [ Functional JS Study](https://github.com/pikpokjeon/Functional-JS-Study)  
+ #### 2. [Programming language - A](https://github.com/pikpokjeon/programming-language-A) Coursera MOOC, SML
 ---
 
 |          |          |          
