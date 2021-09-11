@@ -27,6 +27,20 @@
  #### 2. [Programming language - A](https://github.com/pikpokjeon/programming-language-A) Coursera MOOC, SML
 ---
 
+### My Incomplete old projects
+
+#### 1. [Tokidoki Chat](https://github.com/pikpokjeon/TokiDoki-Project) 
+```Websocket messaging web app 2021,july```
+#### 2. [AWAD](https://github.com/pikpokjeon/AWAD-vue) So called A Word A day
+```vocabulary training telegram chat bot(AWAD)' frontend client web app. 2020,oct```
+#### 3. [Uniqr](https://github.com/pikpokjeon/Uniqr-OfflineClassPlatform) 
+```Offline class platform 2020,may```
+
+---
+### Complete Group Project
+#### 1. [Fantasy Stock](https://github.com/pikpokjeon/stockProject)
+``` Virtual stock simulation community web app 2020 may```
+
 |          |          |          
 | -------- | -------- | 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikpokjeon&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)   |  [![pikpok's github stats](https://github-readme-stats.vercel.app/api?username=pikpokjeon&include_all_commits=true&theme=vue&count_private=true&line_height=15&)](https://github.com/anuraghazra/github-readme-stats)|      
