@@ -25,6 +25,7 @@
 ###  Study
  #### 1. [ Functional JS Study](https://github.com/pikpokjeon/Functional-JS-Study)  
  #### 2. [Programming language - A](https://github.com/pikpokjeon/programming-language-A) Coursera MOOC, SML
+ #### 3. [Frontend Study Logs](https://github.com/pikpokjeon/awesome-frontend)
 ---
 
 ### My Incomplete old projects
