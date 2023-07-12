@@ -1,7 +1,7 @@
 
 ## **Yaejin jeon** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikpokjeon&count_bg=%23FF00A2&title_bg=%23493D3D&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### ✨ Frontend Action Dev @Listly ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ✨ Frontend Action Dev @[Listly.io](https://listly.io) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 #### Interested in **FP and Data Visualization**
 
 
